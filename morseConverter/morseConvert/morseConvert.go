@@ -1,7 +1,7 @@
 package morsedictionary
 
 import (
-	internal "morseConverter/morseConvert/internal"
+	internal "MorseCodeConverter/morseConverter/morseConvert/internal"
 	"strconv"
 	"strings"
 )
